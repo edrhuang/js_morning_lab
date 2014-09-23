@@ -1,0 +1,7 @@
+JavaScript Function Exercises
+
+Write a function that accepts three numbers and returns their product.
+Write a function that accepts an age and returns true if you can drink and false if you cannot drink
+Write a function that takes an array as an argument and prints out the array's elements in order
+Implement each in javascript
+Implement reduce in javascript
